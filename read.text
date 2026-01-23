@@ -2,15 +2,15 @@ npm install @reduxjs/toolkit react-redux
 
 1.npm create vite 
 -----------------------------------------------------------
-1. npm install tailwindcss @tailwindcss/vite
+1. 😁 npm install tailwindcss @tailwindcss/vite ✅
 
-2.[03] configure the Vite plugin -------------past in vite.config.js file this url and call tailwindcss() function in 
+2. configure the Vite plugin -------------past in vite.config.js file this url and call tailwindcss() function in 
 
-import tailwindcss from '@tailwindcss/vite' 
+😁 import tailwindcss from '@tailwindcss/vite' ✅
 
 
 3. Import tailwind CSS in index.css file -----
-@import "tailwindcss";
+😁 @import "tailwindcss";✅
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 4. install react-router-dom
 5. in main.jsx 
