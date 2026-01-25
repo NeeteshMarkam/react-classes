@@ -4,7 +4,7 @@ const Card = () => {
   return (
     <div>
       <div className="border flex flex-col justify-center h-80 w-55 rounded-3xl m-2">
-      <div className="w-52 m-1 border h-30 rounded-2xl ">
+      <div className="w-52 m-1 border h-30 rounded-2xl relative">
         <img
           src="kira.jpg"
           alt=""
